@@ -1,0 +1,25 @@
+<stock>
+	<ticker>GOOG</ticker>
+	<name>Alphabet Inc. (GOOG)</name>
+	<price>927.33</price>
+</stock>
+<stock>
+	<ticker>AMZN</ticker>
+	<name>Amazon.com, Inc. (AMZN)</name>
+	<price>976.78</price>
+</stock>
+<stock>
+	<ticker>AAPL</ticker>
+	<name>Apple Inc. (AAPL)</name>
+	<price>143.73</price>
+</stock>
+<stock>
+	<ticker>FB</ticker>
+	<name>Facebook, Inc. (FB)</name>
+	<price>150.58</price>
+</stock>
+<stock>
+	<ticker>AABA</ticker>
+	<name>Altaba Inc. (AABA)</name>
+	<price>53.64</price>
+</stock>
